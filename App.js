@@ -67,8 +67,8 @@ export default class App extends React.Component {
   render(){
   return (
     <View style={styles.container}>
-      <View> 
-        <Text>Scratch And Win </Text>
+      <View style={styles.topBar}> 
+        <Text style={styles.topText}>Scratch And Win </Text>
       </View>
       <View style={styles.grid}>
         <View style={styles.itemRow}>
@@ -478,6 +478,19 @@ const styles = StyleSheet.create({
     fontSize: 18
   },
   button:{
-    marginVertical : 15
+    marginVertical : 18
+  },
+  topBar : {
+    backgroundColor: "#8B78E6",
+    height : 50,
+    justifyContent: "center",
+    width: Dimensions.get('window').width,
+    marginVertical: 20
+  },
+  topText : {
+    color : "#FFF",
+    textAlign:"center",
+    fontSize: 18,
+    fontWeight: "bold"
   }
 });
