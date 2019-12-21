@@ -1,0 +1,512 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:1:1-48:12
+MERGED from [:react-native-screens] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-permissions] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-react-native-adapter] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/10d51755eb411aa030680bb3fad681b2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/00d7c6381664c7141fb43df0b318b40f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/e440c0fa7d984de476bbe7e67fbbb2bf/AndroidManifest.xml:17:1-24:12
+MERGED from [:expo-app-loader-provider] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-constants] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-error-recovery] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-file-system] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-30:12
+MERGED from [:expo-font] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-keep-awake] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-linear-gradient] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-location] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:expo-sqlite] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-web-browser] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-barcode-scanner-interface] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-camera-interface] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-constants-interface] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-face-detector-interface] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-file-system-interface] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-font-interface] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-permissions-interface] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-task-manager-interface] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-core] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-image-loader-interface] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-sensors-interface] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/e7a2f96fcc2bfcecfed42b4acddf8124/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/0c10bb617f9a8f76111051172a9a9e30/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/de811495355eb2db7d50eae76010a49c/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/27a1d13e3b2c9a556b2ecaf7322bff87/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/66878538ee09c702547b9a316f61dddb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/9d770887dbdd12a86491d50d1e1b1520/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/5922a88c516f7aabfa1c07e2c2183e69/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/23f8c402560e483e648e2ca0e9301148/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/ae0d913a551c9e02fe1fa5ebe00ed78c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/bcb479498d904cb1a2ce40c7e1825ae0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/284816c67d071270191a1e2c8a588e89/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/transition-1.1.0.aar/79ed53297db615031d8921f9e6f4a7ce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/6390a48e648cd9b6503b7c979d89714e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/1281119e095ca164ab2d2920e6c86002/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/95dfc019bf67975d570599bde8cc1f63/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/bae90b4e14d76c18acb8963f4dae7453/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/436cc9f2264cebfd90a9bbefd4fa78f3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/2ebe73ed8fc2eff48bcb62aa79c5e466/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/e54e996bd9395fcdd69704101dd6f60e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/c7ba0a263518a48ca3d408762820b33c/AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/4b46fde40a2201f984577c1bab70b6fe/AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/4dccc0cb3e598be95d843d6efc346e23/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/05c48cff6e8d674342e041aa59be8463/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/3b9fa591d9f6441d2ae712fbf22d4940/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/75fde29a659ed677c6691b6828f0b443/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/6e3e84b05e55f8cee498e23c79a7b8a6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/9efa1c7a1e230b53267e10a8e2c8d2c2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/bbc1b958eef094219aa36429dad5ed88/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/44feeb933e1fc3a3e54a0227645a0814/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/23dd7b0010ed4ad0f7f3457deaa28fc5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/2bb31b33a49d16e837e47ca3cbf946eb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/e87c681bc5b55931643a8a9d4b25036e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/ad08b8765c8a86c9abc140d69438f386/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/f62a33e232ec303e1cbbb2064725af0f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/79ac0f5c08b1a9d64881b17e6c052be1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/c66c889809584d7f2b5bc6e88b0615ef/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a7e9f353179da70681a84d52ff1be2f0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/045965a0f2d21e3e39dd2ffaef973fa8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/7f9b5639f22c0f999eb77e54ed3dd236/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/95d9f1d4f232fa69c627c1c8334e5ab5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/c07a8c76a4d3ca90701cb2fa123697ce/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/fb8946a7d1675feeb94cc1182be82308/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/7d5dae3a5099a892313faaa350d39fde/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/ffcbb8fb976907f98bd1b95af87b3157/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/44e2442490171ad977dbcf0d25ed263c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/ee617a36000b7226a290df935f593448/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/91824d143b2a478995a406a9dbba0400/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/ebdd892d8091fa8a0c014995d4dd73e2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/70ea21e999aefae2ca0a658158a6b483/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/d20c5ed9f634f22d3ecae606bcdc335d/AndroidManifest.xml:17:1-22:12
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/53689fe99461cb72cb0a13aa3f2f6492/AndroidManifest.xml:2:1-30:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/3cc35d4df90fda0144205e5e7d152d85/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:1:1-48:12
+	package
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:2:5-30
+		INJECTED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:1:1-48:12
+		INJECTED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:1:1-48:12
+		INJECTED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:expo-file-system] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+MERGED from [:expo-file-system] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:8:22-72
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:10:22-72
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:11:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:12:22-63
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:13:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:16:5-81
+MERGED from [:expo-location] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [:expo-location] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/53689fe99461cb72cb0a13aa3f2f6492/AndroidManifest.xml:12:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/53689fe99461cb72cb0a13aa3f2f6492/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:17:5-79
+MERGED from [:expo-location] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [:expo-location] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/53689fe99461cb72cb0a13aa3f2f6492/AndroidManifest.xml:14:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/53689fe99461cb72cb0a13aa3f2f6492/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:18:22-62
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:19:5-72
+	android:name
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:19:22-69
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:20:5-72
+	android:name
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:20:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:21:5-73
+	android:name
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:21:22-70
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:22:5-80
+MERGED from [:expo-file-system] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+MERGED from [:expo-file-system] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:22:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:23:5-71
+	android:name
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:23:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:24:5-81
+MERGED from [:expo-file-system] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+MERGED from [:expo-file-system] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:24:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:25:5-73
+	android:name
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:25:22-70
+application
+ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:28:5-46:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/10d51755eb411aa030680bb3fad681b2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/10d51755eb411aa030680bb3fad681b2/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/00d7c6381664c7141fb43df0b318b40f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/00d7c6381664c7141fb43df0b318b40f/AndroidManifest.xml:22:5-20
+MERGED from [:expo-file-system] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-file-system] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-location] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [:expo-location] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/0c10bb617f9a8f76111051172a9a9e30/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/0c10bb617f9a8f76111051172a9a9e30/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/de811495355eb2db7d50eae76010a49c/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/de811495355eb2db7d50eae76010a49c/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/27a1d13e3b2c9a556b2ecaf7322bff87/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/27a1d13e3b2c9a556b2ecaf7322bff87/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/66878538ee09c702547b9a316f61dddb/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/66878538ee09c702547b9a316f61dddb/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/9d770887dbdd12a86491d50d1e1b1520/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/9d770887dbdd12a86491d50d1e1b1520/AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/c7ba0a263518a48ca3d408762820b33c/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/c7ba0a263518a48ca3d408762820b33c/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/4b46fde40a2201f984577c1bab70b6fe/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/4b46fde40a2201f984577c1bab70b6fe/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/4dccc0cb3e598be95d843d6efc346e23/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/4dccc0cb3e598be95d843d6efc346e23/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a7e9f353179da70681a84d52ff1be2f0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a7e9f353179da70681a84d52ff1be2f0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/c07a8c76a4d3ca90701cb2fa123697ce/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/c07a8c76a4d3ca90701cb2fa123697ce/AndroidManifest.xml:24:5-25:19
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/53689fe99461cb72cb0a13aa3f2f6492/AndroidManifest.xml:18:5-28:19
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/53689fe99461cb72cb0a13aa3f2f6492/AndroidManifest.xml:18:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a7e9f353179da70681a84d52ff1be2f0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:30:7-39
+	android:roundIcon
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:32:7-52
+	android:icon
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:31:7-41
+	android:allowBackup
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:33:7-34
+	android:theme
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:34:7-38
+	android:name
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:29:7-38
+activity#com.scratchnwin.MainActivity
+ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:35:7-44:18
+	android:label
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:37:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:39:9-51
+	android:configChanges
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:38:9-79
+	android:name
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:36:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:40:9-43:25
+action#android.intent.action.MAIN
+ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:41:13-65
+	android:name
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:41:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:42:13-73
+	android:name
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:42:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:45:7-84
+	android:name
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml:45:17-81
+uses-sdk
+INJECTED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-screens] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/10d51755eb411aa030680bb3fad681b2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/10d51755eb411aa030680bb3fad681b2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/00d7c6381664c7141fb43df0b318b40f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/00d7c6381664c7141fb43df0b318b40f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/e440c0fa7d984de476bbe7e67fbbb2bf/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/e440c0fa7d984de476bbe7e67fbbb2bf/AndroidManifest.xml:20:5-22:41
+MERGED from [:expo-app-loader-provider] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-error-recovery] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-error-recovery] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-file-system] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-file-system] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-font] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-font] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/e7a2f96fcc2bfcecfed42b4acddf8124/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/e7a2f96fcc2bfcecfed42b4acddf8124/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/0c10bb617f9a8f76111051172a9a9e30/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/0c10bb617f9a8f76111051172a9a9e30/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/de811495355eb2db7d50eae76010a49c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/de811495355eb2db7d50eae76010a49c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/27a1d13e3b2c9a556b2ecaf7322bff87/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/27a1d13e3b2c9a556b2ecaf7322bff87/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/66878538ee09c702547b9a316f61dddb/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/66878538ee09c702547b9a316f61dddb/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/9d770887dbdd12a86491d50d1e1b1520/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/9d770887dbdd12a86491d50d1e1b1520/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/5922a88c516f7aabfa1c07e2c2183e69/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/5922a88c516f7aabfa1c07e2c2183e69/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/23f8c402560e483e648e2ca0e9301148/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/23f8c402560e483e648e2ca0e9301148/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/ae0d913a551c9e02fe1fa5ebe00ed78c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/ae0d913a551c9e02fe1fa5ebe00ed78c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/bcb479498d904cb1a2ce40c7e1825ae0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/bcb479498d904cb1a2ce40c7e1825ae0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/284816c67d071270191a1e2c8a588e89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/284816c67d071270191a1e2c8a588e89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/transition-1.1.0.aar/79ed53297db615031d8921f9e6f4a7ce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/transition-1.1.0.aar/79ed53297db615031d8921f9e6f4a7ce/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/6390a48e648cd9b6503b7c979d89714e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/6390a48e648cd9b6503b7c979d89714e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/1281119e095ca164ab2d2920e6c86002/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/1281119e095ca164ab2d2920e6c86002/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/95dfc019bf67975d570599bde8cc1f63/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/95dfc019bf67975d570599bde8cc1f63/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/bae90b4e14d76c18acb8963f4dae7453/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/bae90b4e14d76c18acb8963f4dae7453/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/436cc9f2264cebfd90a9bbefd4fa78f3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/436cc9f2264cebfd90a9bbefd4fa78f3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/2ebe73ed8fc2eff48bcb62aa79c5e466/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/2ebe73ed8fc2eff48bcb62aa79c5e466/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/e54e996bd9395fcdd69704101dd6f60e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/e54e996bd9395fcdd69704101dd6f60e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/c7ba0a263518a48ca3d408762820b33c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/c7ba0a263518a48ca3d408762820b33c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/4b46fde40a2201f984577c1bab70b6fe/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/4b46fde40a2201f984577c1bab70b6fe/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/4dccc0cb3e598be95d843d6efc346e23/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/4dccc0cb3e598be95d843d6efc346e23/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/05c48cff6e8d674342e041aa59be8463/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/05c48cff6e8d674342e041aa59be8463/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/3b9fa591d9f6441d2ae712fbf22d4940/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/3b9fa591d9f6441d2ae712fbf22d4940/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/75fde29a659ed677c6691b6828f0b443/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/75fde29a659ed677c6691b6828f0b443/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/6e3e84b05e55f8cee498e23c79a7b8a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/6e3e84b05e55f8cee498e23c79a7b8a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/9efa1c7a1e230b53267e10a8e2c8d2c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/9efa1c7a1e230b53267e10a8e2c8d2c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/bbc1b958eef094219aa36429dad5ed88/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/bbc1b958eef094219aa36429dad5ed88/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/44feeb933e1fc3a3e54a0227645a0814/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/44feeb933e1fc3a3e54a0227645a0814/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/23dd7b0010ed4ad0f7f3457deaa28fc5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/23dd7b0010ed4ad0f7f3457deaa28fc5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/2bb31b33a49d16e837e47ca3cbf946eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/2bb31b33a49d16e837e47ca3cbf946eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/e87c681bc5b55931643a8a9d4b25036e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/e87c681bc5b55931643a8a9d4b25036e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/ad08b8765c8a86c9abc140d69438f386/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/ad08b8765c8a86c9abc140d69438f386/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/f62a33e232ec303e1cbbb2064725af0f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/f62a33e232ec303e1cbbb2064725af0f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/79ac0f5c08b1a9d64881b17e6c052be1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/79ac0f5c08b1a9d64881b17e6c052be1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/c66c889809584d7f2b5bc6e88b0615ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/c66c889809584d7f2b5bc6e88b0615ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a7e9f353179da70681a84d52ff1be2f0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a7e9f353179da70681a84d52ff1be2f0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/045965a0f2d21e3e39dd2ffaef973fa8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/045965a0f2d21e3e39dd2ffaef973fa8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/7f9b5639f22c0f999eb77e54ed3dd236/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/7f9b5639f22c0f999eb77e54ed3dd236/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/95d9f1d4f232fa69c627c1c8334e5ab5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/95d9f1d4f232fa69c627c1c8334e5ab5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/c07a8c76a4d3ca90701cb2fa123697ce/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/c07a8c76a4d3ca90701cb2fa123697ce/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/fb8946a7d1675feeb94cc1182be82308/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/fb8946a7d1675feeb94cc1182be82308/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/7d5dae3a5099a892313faaa350d39fde/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/7d5dae3a5099a892313faaa350d39fde/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/ffcbb8fb976907f98bd1b95af87b3157/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/ffcbb8fb976907f98bd1b95af87b3157/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/44e2442490171ad977dbcf0d25ed263c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/44e2442490171ad977dbcf0d25ed263c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/ee617a36000b7226a290df935f593448/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/ee617a36000b7226a290df935f593448/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/91824d143b2a478995a406a9dbba0400/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/91824d143b2a478995a406a9dbba0400/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/ebdd892d8091fa8a0c014995d4dd73e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/ebdd892d8091fa8a0c014995d4dd73e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/70ea21e999aefae2ca0a658158a6b483/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/70ea21e999aefae2ca0a658158a6b483/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/d20c5ed9f634f22d3ecae606bcdc335d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/d20c5ed9f634f22d3ecae606bcdc335d/AndroidManifest.xml:20:5-44
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/53689fe99461cb72cb0a13aa3f2f6492/AndroidManifest.xml:8:5-10:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/53689fe99461cb72cb0a13aa3f2f6492/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/3cc35d4df90fda0144205e5e7d152d85/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/3cc35d4df90fda0144205e5e7d152d85/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.STORAGE
+ADDED from [:expo-file-system] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from [:expo-file-system] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:22-63
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-27:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:expo-file-system] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-74
+	android:exported
+		ADDED from [:expo-file-system] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-37
+	tools:replace
+		ADDED from [:expo-file-system] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-48
+	android:name
+		ADDED from [:expo-file-system] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:expo-file-system] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-26:70
+	android:resource
+		ADDED from [:expo-file-system] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-67
+	android:name
+		ADDED from [:expo-file-system] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-67
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:expo-location] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from [:expo-location] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-74
+service#expo.modules.location.services.LocationTaskService
+ADDED from [:expo-location] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from [:expo-location] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:expo-location] /Users/aniketyadav/Desktop/ReactNativeBootcamp/14/ScratchWin/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/de811495355eb2db7d50eae76010a49c/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/de811495355eb2db7d50eae76010a49c/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/de811495355eb2db7d50eae76010a49c/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/de811495355eb2db7d50eae76010a49c/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/9d770887dbdd12a86491d50d1e1b1520/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/9d770887dbdd12a86491d50d1e1b1520/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/9d770887dbdd12a86491d50d1e1b1520/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/53689fe99461cb72cb0a13aa3f2f6492/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/53689fe99461cb72cb0a13aa3f2f6492/AndroidManifest.xml:13:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/53689fe99461cb72cb0a13aa3f2f6492/AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/53689fe99461cb72cb0a13aa3f2f6492/AndroidManifest.xml:15:22-95
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/53689fe99461cb72cb0a13aa3f2f6492/AndroidManifest.xml:16:5-94
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/53689fe99461cb72cb0a13aa3f2f6492/AndroidManifest.xml:16:22-91
+service#io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/53689fe99461cb72cb0a13aa3f2f6492/AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/53689fe99461cb72cb0a13aa3f2f6492/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/53689fe99461cb72cb0a13aa3f2f6492/AndroidManifest.xml:20:13-132
+service#io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/53689fe99461cb72cb0a13aa3f2f6492/AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/53689fe99461cb72cb0a13aa3f2f6492/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/53689fe99461cb72cb0a13aa3f2f6492/AndroidManifest.xml:23:13-127
+service#io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/53689fe99461cb72cb0a13aa3f2f6492/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/53689fe99461cb72cb0a13aa3f2f6492/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/aniketyadav/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/53689fe99461cb72cb0a13aa3f2f6492/AndroidManifest.xml:26:13-120
